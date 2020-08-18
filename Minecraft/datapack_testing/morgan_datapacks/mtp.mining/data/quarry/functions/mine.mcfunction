@@ -1,0 +1,3 @@
+execute if block ~ ~-1 ~ bedrock run kill @e[type=minecraft:armor_stand,nbt={CustomName:'{"text":"Quarry"}'}]
+execute at @e[type=minecraft:armor_stand,nbt={CustomName:'{"text":"Quarry"}'}] unless blocks ~5 ~-1 ~-5 ~-5 ~-1 ~5 ~ ~ ~ masked unless block ~ ~-1 ~ bedrock run fill ~5 ~-1 ~-5 ~-5 ~-1 ~5 air destroy
+execute at @e[type=minecraft:armor_stand,nbt={CustomName:'{"text":"Quarry"}'}] run fill ~5 ~ ~-5 ~-5 ~ ~5 dirt

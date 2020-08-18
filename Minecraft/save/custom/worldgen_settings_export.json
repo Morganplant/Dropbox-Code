@@ -1,0 +1,65 @@
+{
+  "bonus_chest": false,
+  "dimensions": {
+    "minecraft:overworld": {
+      "type": "minecraft:overworld",
+      "generator": {
+        "biome_source": {
+          "seed": -3577746946246175782,
+          "large_biomes": false,
+          "type": "minecraft:vanilla_layered"
+        },
+        "seed": -3577746946246175782,
+        "settings": "minecraft:overworld",
+        "type": "minecraft:noise"
+      }
+    },
+    "minecraft:the_nether": {
+      "type": "minecraft:the_nether",
+      "generator": {
+        "biome_source": {
+          "seed": -3577746946246175782,
+          "preset": "minecraft:nether",
+          "type": "minecraft:multi_noise"
+        },
+        "seed": -3577746946246175782,
+        "settings": "minecraft:nether",
+        "type": "minecraft:noise"
+      }
+    },
+    "minecraft:the_end": {
+      "type": "minecraft:the_end",
+      "generator": {
+        "biome_source": {
+          "seed": -3577746946246175782,
+          "type": "minecraft:the_end"
+        },
+        "seed": -3577746946246175782,
+        "settings": "minecraft:end",
+        "type": "minecraft:noise"
+      }
+    },
+    "minecraft:void": {
+      "type": "minecraft:overworld",
+      "generator": {
+        "settings": {
+          "lakes": false,
+          "features": true,
+          "biome": "minecraft:the_void",
+          "structures": {
+            "structures": {}
+          },
+          "layers": [
+            {
+              "height": 1,
+              "block": "minecraft:air"
+            }
+          ]
+        },
+        "type": "minecraft:flat"
+      }
+    }
+  },
+  "seed": -3577746946246175782,
+  "generate_features": true
+}

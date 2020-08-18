@@ -1,0 +1,1 @@
+execute at @e[type=minecraft:armor_stand,nbt={CustomName:'{"text":"Miner"}'}] as @e[type=minecraft:armor_stand,nbt={CustomName:'{"text":"Miner"}'},sort=nearest,limit=1] unless block ^ ^ ^-1 bedrock unless block ^ ^1 ^-1 bedrock run tp ^ ^ ^-.1

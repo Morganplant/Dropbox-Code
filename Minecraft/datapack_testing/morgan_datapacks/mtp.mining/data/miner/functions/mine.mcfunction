@@ -1,0 +1,2 @@
+execute as @e[type=minecraft:armor_stand,nbt={CustomName:'{"text":"Miner"}'}] at @e[type=minecraft:armor_stand,nbt={CustomName:'{"text":"Miner"}'}] unless block ^ ^ ^-1 minecraft:bedrock run setblock ^ ^ ^-1 air destroy
+execute as @e[type=minecraft:armor_stand,nbt={CustomName:'{"text":"Miner"}'}] at @e[type=minecraft:armor_stand,nbt={CustomName:'{"text":"Miner"}'}] unless block ^ ^1 ^-1 minecraft:bedrock run setblock ^ ^1 ^-1 air destroy
