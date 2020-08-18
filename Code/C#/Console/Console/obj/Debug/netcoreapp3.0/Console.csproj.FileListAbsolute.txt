@@ -1,0 +1,11 @@
+/Users/Morgan/Desktop/Code/C#/Console/Console/obj/Debug/netcoreapp3.0/Console.csprojAssemblyReference.cache
+/Users/Morgan/Desktop/Code/C#/Console/Console/obj/Debug/netcoreapp3.0/Console.AssemblyInfoInputs.cache
+/Users/Morgan/Desktop/Code/C#/Console/Console/obj/Debug/netcoreapp3.0/Console.AssemblyInfo.cs
+/Users/Morgan/Desktop/Code/C#/Console/Console/bin/Debug/netcoreapp3.0/Console
+/Users/Morgan/Desktop/Code/C#/Console/Console/bin/Debug/netcoreapp3.0/Console.deps.json
+/Users/Morgan/Desktop/Code/C#/Console/Console/bin/Debug/netcoreapp3.0/Console.runtimeconfig.json
+/Users/Morgan/Desktop/Code/C#/Console/Console/bin/Debug/netcoreapp3.0/Console.runtimeconfig.dev.json
+/Users/Morgan/Desktop/Code/C#/Console/Console/bin/Debug/netcoreapp3.0/Console.dll
+/Users/Morgan/Desktop/Code/C#/Console/Console/bin/Debug/netcoreapp3.0/Console.pdb
+/Users/Morgan/Desktop/Code/C#/Console/Console/obj/Debug/netcoreapp3.0/Console.dll
+/Users/Morgan/Desktop/Code/C#/Console/Console/obj/Debug/netcoreapp3.0/Console.pdb

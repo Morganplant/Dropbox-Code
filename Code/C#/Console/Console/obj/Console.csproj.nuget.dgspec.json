@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Morgan/Desktop/Code/C#/Console/Console/Console.csproj": {}
+  },
+  "projects": {
+    "/Users/Morgan/Desktop/Code/C#/Console/Console/Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Morgan/Desktop/Code/C#/Console/Console/Console.csproj",
+        "projectName": "Console",
+        "projectPath": "/Users/Morgan/Desktop/Code/C#/Console/Console/Console.csproj",
+        "packagesPath": "/Users/Morgan/.nuget/packages/",
+        "outputPath": "/Users/Morgan/Desktop/Code/C#/Console/Console/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Morgan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
